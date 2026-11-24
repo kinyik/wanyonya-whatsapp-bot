@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "kuih-lapis",
+      "name": { "zh": "传统九层糕", "en": "Traditional Layered Kuih" },
+      "malay": "Kuih Lapis",
+      "price": 9.9,
+      "unit": { "zh": "一盒 5 片", "en": "Box of 5 pcs" },
+      "image": "/images/products/kuih-lapis.jpg"
+    },
+    {
+      "id": "lapis-pelangi",
+      "name": { "zh": "七彩九层糕", "en": "Rainbow Layered Kuih" },
+      "malay": "Rainbow Kuih Lapis",
+      "price": 9.9,
+      "unit": { "zh": "一盒 5 片", "en": "Box of 5 pcs" },
+      "image": "/images/products/lapis-pelangi.jpg"
+    },
+    {
+      "id": "coffee-kuih-lapis",
+      "name": { "zh": "咖啡九层糕", "en": "Coffee Layered Kuih" },
+      "malay": "Coffee Kuih Lapis",
+      "price": 9.9,
+      "unit": { "zh": "一盒 5 片", "en": "Box of 5 pcs" },
+      "image": ""
+    },
+    {
+      "id": "kuih-talam",
+      "name": { "zh": "香兰达兰糕", "en": "Pandan Coconut Kuih" },
+      "malay": "Kuih Talam",
+      "price": 9.9,
+      "unit": { "zh": "一盒 5 片", "en": "Box of 5 pcs" },
+      "image": "/images/products/kuih-talam.jpg"
+    },
+    {
+      "id": "pulut-tai-tai",
+      "name": { "zh": "蓝花加央糯米糕", "en": "Butterfly Pea Glutinous Rice with Kaya" },
+      "malay": "Pulut Tai Tai",
+      "price": 9.9,
+      "unit": { "zh": "一盒 5 片", "en": "Box of 5 pcs" },
+      "image": "/images/products/pulut-tai-tai.jpg"
+    },
+    {
+      "id": "kuih-ubi-kayu",
+      "name": { "zh": "椰丝木薯糕", "en": "Coconut Tapioca Kuih" },
+      "malay": "Kuih Tapioca with Coconut",
+      "price": 9.9,
+      "unit": { "zh": "一盒 5 片", "en": "Box of 5 pcs" },
+      "image": "/images/products/kuih-ubi-kayu.jpg"
+    },
+    {
+      "id": "mixed-box",
+      "name": { "zh": "混合款", "en": "Mixed Box" },
+      "malay": "Mixed",
+      "price": 9.9,
+      "unit": { "zh": "随机 5 款各 1 片", "en": "5 random, 1 pc each" },
+      "note": { "zh": "要指定口味可在备注写明", "en": "Want specific flavours? Add them in the order note" },
+      "image": "/images/hero/hero-photo.jpg",
+      "imagePosition": "40% 50%"
+    }
+  ],
+  "sets": [
+    {
+      "id": "sharing-platter",
+      "name": { "zh": "娘惹拼盘", "en": "Nyonya Sharing Platter" },
+      "desc": { "zh": "6 款口味各 6 片，共 36 片", "en": "6 pcs each of 6 flavours — 36 pcs in total" },
+      "serves": { "zh": "4–6 人", "en": "4–6 pax" },
+      "price": 58,
+      "image": "/images/storyboard/6-lifestyle.png",
+      "imagePosition": "50% 70%"
+    },
+    {
+      "id": "tea-break",
+      "name": { "zh": "聚会分享盘", "en": "Party Platter" },
+      "desc": { "zh": "6 款口味各 10 片，共 60 片", "en": "10 pcs each of 6 flavours — 60 pcs in total" },
+      "serves": { "zh": "10 人", "en": "10 pax" },
+      "price": 88,
+      "image": "/images/storyboard/4-heritage.png",
+      "imagePosition": "30% 50%"
+    },
+    {
+      "id": "banquet",
+      "name": { "zh": "宴会大盘", "en": "Banquet Tray" },
+      "desc": {
+        "zh": "6 款口味各 18 片，共 108 片 · Klang Valley Area 免运费",
+        "en": "18 pcs each of 6 flavours — 108 pcs in total · free delivery within Klang Valley Area"
+      },
+      "serves": { "zh": "15–20 人", "en": "15–20 pax" },
+      "price": 168,
+      "image": "/images/storyboard/1-opening.png",
+      "imagePosition": "60% 50%"
+    },
+    {
+      "id": "gift-box",
+      "name": { "zh": "娘惹礼盒", "en": "Nyonya Gift Box" },
+      "desc": { "zh": "6 款口味各 4 片，共 24 片", "en": "4 pcs each of 6 flavours — 24 pcs in total" },
+      "serves": { "zh": "送礼 / 2–3 人", "en": "Gifting / 2–3 pax" },
+      "price": 45,
+      "image": "/images/storyboard/7-ending.png",
+      "imagePosition": "35% 50%"
+    }
+  ]
+}

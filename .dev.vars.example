@@ -1,0 +1,20 @@
+# 复制成 .dev.vars 给本地 wrangler dev 用；正式上线用 npx wrangler secret put 名称
+# .dev.vars 已经在 .gitignore 里，不会上传
+
+# Meta 后台 → WhatsApp → API Setup
+WHATSAPP_TOKEN=
+WHATSAPP_PHONE_NUMBER_ID=
+# Meta 后台 → App settings → Basic → App secret（用来检查讯息真的来自 Meta）
+META_APP_SECRET=
+# 自己随便定一串字，Meta 后台设 webhook 时填一样的
+WEBHOOK_VERIFY_TOKEN=
+
+# 和云惹坊网站共用的 Google Apps Script（网站 .env.local 里的同名值）
+ORDER_SHEET_URL=
+ORDER_SHEET_SECRET=
+
+# Telegram 通知（@BotFather 拿 token；TELEGRAM_CHAT_ID 是你自己的聊天 id）
+TELEGRAM_BOT_TOKEN=
+TELEGRAM_CHAT_ID=
+# 自己定一串字，设 Telegram webhook 时用
+TELEGRAM_WEBHOOK_SECRET=

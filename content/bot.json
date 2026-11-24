@@ -1,0 +1,8 @@
+{
+  "_说明": "营业时间（机器人用来判断现在是不是休息时间）。星期：0=星期日，1=星期一 … 6=星期六。时区固定 Asia/Kuala_Lumpur（UTC+8）。",
+  "openDays": [0, 2, 3, 4, 5, 6],
+  "openHour": 10,
+  "closeHour": 20,
+  "handoffHours": 12,
+  "dateOptions": 10
+}

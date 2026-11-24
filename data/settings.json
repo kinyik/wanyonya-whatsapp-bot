@@ -1,0 +1,24 @@
+{
+  "demoMode": false,
+  "samplePhotos": true,
+  "whatsappNumber": "60128609968",
+  "leadDaysSingle": 1,
+  "leadDaysSet": 2,
+  "minOrder": 19.8,
+  "currency": "RM",
+  "hours": { "zh": "星期二至星期日 10:00am–8:00pm（星期一休息）", "en": "Tue–Sun 10:00am–8:00pm (closed Mon)" },
+  "pickup": { "zh": "雪兰莪 Petaling Jaya（下单后发确切地址）", "en": "Petaling Jaya, Selangor (exact address sent after order)" },
+  "delivery": {
+    "zh": "Klang Valley Area 可送货，运费按 Lalamove 实价由客人支付；RM168 宴会大盘 Klang Valley Area 免运费",
+    "en": "Delivery within Klang Valley Area via Lalamove, fee paid by customer; free delivery within Klang Valley Area for the RM168 Banquet Tray"
+  },
+  "payment": {
+    "zh": "DuitNow 或 Touch 'n Go eWallet，下单时先付 50% 订金",
+    "en": "DuitNow or Touch 'n Go eWallet, 50% deposit upon order"
+  },
+  "socials": {
+    "instagram": "",
+    "facebook": "",
+    "tiktok": ""
+  }
+}

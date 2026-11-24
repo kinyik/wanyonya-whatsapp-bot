@@ -1,0 +1,13 @@
+name = "wanyonya-whatsapp-bot"
+main = "src/index.ts"
+compatibility_date = "2026-11-01"
+
+# 对话进度存在这里（已用 npx wrangler kv namespace create STATE 建好）
+[[kv_namespaces]]
+binding = "STATE"
+id = "a9ef40ead8c04d56be3c54c02288c6b3"
+
+[vars]
+GRAPH_API_VERSION = "v25.0"
+# DuitNow QR 图片的公开网址（例如放在云惹坊网站 public/ 里），留空就只发文字
+PAYMENT_QR_URL = ""

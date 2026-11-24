@@ -1,0 +1,13 @@
+{
+  "_说明": "常见问题。q 是列表显示的问题（最多 24 个字），a 是回答。enabled 为 false 的不会出现。{花括号} 由程序从 data/settings.json 填。",
+  "items": [
+    { "id": "lead", "enabled": true, "q": "要提前几天订？", "a": "单盒糕点要提前 {leadSingle} 天订，有套餐或礼盒要提前 {leadSet} 天订。" },
+    { "id": "min", "enabled": true, "q": "最低消费多少？", "a": "每张单最低消费 RM{minOrder}。" },
+    { "id": "pay", "enabled": true, "q": "怎么付款？", "a": "{payment}。下单后机器人会发付款资料给你。" },
+    { "id": "hours", "enabled": true, "q": "营业时间？", "a": "{hours}" },
+    { "id": "mixed", "enabled": true, "q": "混合款可以指定口味吗？", "a": "可以，下单时在备注写明想要的口味就好。" },
+    { "id": "shelf", "enabled": false, "q": "可以放几天？", "a": "【待填：常温和冷藏各可以放几天】" },
+    { "id": "halal", "enabled": false, "q": "是清真的吗？", "a": "【待填：清真状况】" },
+    { "id": "custom", "enabled": false, "q": "可以定制吗？", "a": "【待填：定制规则】" }
+  ]
+}
